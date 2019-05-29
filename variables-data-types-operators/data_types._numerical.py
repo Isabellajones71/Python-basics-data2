@@ -22,7 +22,8 @@ num_a = 10
 num_b = 10
 num_c = 13
 #bigger than
-print(num_b > num_c)print(num_b> num_c)
+print(num_b > num_c)
+print(num_b> num_c)
 #Smaller than
 print(num_b < num_c)
 #Bigger than or equal
@@ -36,6 +37,12 @@ print (num_a == num_b)
 # Long is an integer of unlimited size
 #Complex are numbers that have an addtional +bj
 # b is a float and j is the square root of -1(which is an imaginary number)
+#Casting-Changing things into strings or numbers
+str_number = '2049'
+print(type(str_number))
+int_number = int('2049')
+print(type(int_number))
 
-#Strings
+
+
 
